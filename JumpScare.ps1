@@ -36,7 +36,7 @@ $image =  "https://raw.githubusercontent.com/Vortex123321/Jumpscare/main/uwu.png
 $i = -join($image,"?dl=1")
 iwr $i -O $env:TMP\i.png
 
-iwr https://raw.githubusercontent.com/Vortex123321/Jumpscare/main/uwu.png?dl=1 -O $env:TMP\i.png
+iwr https://raw.githubusercontent.com/Vortex123321/Jumpscare/main/uwu1.png?dl=1 -O $env:TMP\i.png
 
 # Download WAV file; replace link to $wav to add your own sound
 
